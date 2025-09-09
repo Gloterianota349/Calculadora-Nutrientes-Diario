@@ -50,9 +50,3 @@ A aplicação utiliza o Cypress para testes automatizados. Para executar os test
    ```
 
 Isso abrirá a interface do Cypress, onde você pode rodar os testes definidos em `cypress/integration`.
-
-## 📊 Funcionalidades
-
-* **Registro de Informações**: Permite ao usuário inserir seu peso e estilo de vida.
-* **Cálculo de Nutrientes**: Calcula a ingestão de proteínas, carboidratos e lipídios.
-* **Testes Automatizados**: Garante o bom funcionamento da aplicação através de testes automatizados.
